@@ -4,7 +4,7 @@ name: Vale Lint Checker
 on:
   push: # Run on every push to the main branch.
     branches:
-      - main
+      - main-1.0.0
   pull_request: # Run on pull requests targeting any branch.
     branches:
       - '*'
